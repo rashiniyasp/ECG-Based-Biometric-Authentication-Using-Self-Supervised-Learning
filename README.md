@@ -37,6 +37,8 @@ This project implements an electrocardiogram (ECG)-based user authentication sys
 - **Architecture**: 6 convolutional blocks (Conv1D + BatchNorm + ReLU + MaxPooling)
 - **Output**: 2034-dimensional feature vector
 - **Parameters**: ~8.3 million
+- <img width="748" height="280" alt="image" src="https://github.com/user-attachments/assets/2d58d513-0163-4b06-92b3-731fb78d909e" />
+
 
 ### Contrastive Learning Framework
 The project explored two frameworks[file:4]:
